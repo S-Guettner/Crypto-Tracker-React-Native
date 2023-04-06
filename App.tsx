@@ -4,8 +4,8 @@ import {SafeAreaView, View, Text} from 'react-native';
 import LogoTop from './components/LogoTop';
 import createAppContainer from './routes/homeStack'
 import { NavigationContainer } from '@react-navigation/native';
-import { CreateNativeStackNavigator } from '@react-navigation/native-stack';
 
+// nav not working
 const Hello = () => {
 
 
